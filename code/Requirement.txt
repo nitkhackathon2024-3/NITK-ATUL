@@ -1,0 +1,5 @@
+Tensorflow = 2.15
+Pennylane = 0.37.0
+matplotlib
+seaborn
+silence-tensorflow
