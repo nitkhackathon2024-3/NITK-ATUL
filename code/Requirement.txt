@@ -1,5 +1,9 @@
-Tensorflow = 2.15
-Pennylane = 0.37.0
-matplotlib
-seaborn
-silence-tensorflow
+pip install tensorflow = 2.15
+pip install pennylane = 0.37.0
+pip install matplotlib
+pip install seaborn
+pip install silence-tensorflow
+pip install scikit-learn
+pip install numpy
+pip install pandas
+
