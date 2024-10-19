@@ -60,9 +60,15 @@ In this hackathon, we can see that the highly imbalanced nature of the data affe
  **Generative AI Tools**: Chat GPT is used to correct the code error for classical and Quantum.
 
 ## Instructions on running your project
-1. Install the library mentioned in the requirement.txt
-2. Connect your system to GPU - Google Colab can be
-3. Training the quantum program takes 30 min - 60 min
+Note: Run the file on Google Colab or Any server having CUDNN
+Google Colab Instruction
+1. Upload the dataset into your drive
+2. Open my code file in Google Colaboratoryand connect it with GPU runtime.
+3. Install the library mentioned in the requirement.txt
+4. Connect the Colab with the drive using the left top ion " connect to drive".
+5. Run each cell using shift enter
+6. Remember, training the quantum model takes 30-60 min. To reduce it, you can decrease the epoch =10, batch_size= 60.
+7. In the case of the QSVM, it again takes 30 min max. 
 
 
 ## References
