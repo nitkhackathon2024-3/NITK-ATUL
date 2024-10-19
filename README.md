@@ -1,7 +1,10 @@
 ## National Institute of Technology Karnataka - Atul Pandey
 This is a solo team
+
 Name: Atul Pandey
+
 Degree:  M.Tech(Research)
+
 Department: Department of Information Technology
 
 ## Problem Statement: Quantum Detective: Cracking Financial Anomalies 
