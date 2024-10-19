@@ -67,7 +67,7 @@ Google Colab Instruction
 3. Install the library mentioned in the requirement.txt
 4. Connect the Colab with the drive using the left top ion " connect to drive".
 5. Run each cell using shift enter
-6. Remember, training the quantum model takes 30-60 min. To reduce it, you can decrease the epoch =5-10, batch_size= 60-80.
+6. Remember, training the quantum model takes 30-60 min. To reduce it, use epoch from 5-10 and batch_size= 60-80.
 7. In the case of the QSVM, it again takes 30 min max. 
 
 
